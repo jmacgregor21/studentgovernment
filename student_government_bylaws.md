@@ -672,7 +672,7 @@ the Committee for Supporting, Encouraging, and Recognizing Volunteerism.
 
 #### Section 1. Source of Funding.
 
-The money in the Student Activities Fund comes from each student's’ payment of
+The money in the Student Activities Fund comes from each student's payment of
 the Student Activities Fee. The Student Government may vote to recommend a
 change to the Student Activities Fee, but the final decision on changes to the
 Student Activities Fee rests with the Board of Trustees.
