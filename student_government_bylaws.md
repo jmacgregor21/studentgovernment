@@ -541,11 +541,11 @@ If an individual fails to fulfill the club funding process properly and
 within the appropriate amount of time (outlined in the above three bullets 
 and in Club Spending Trainings), the Director of Clubs and Organizations 
 and the Vice President for Finance may:
-1. Upon first offence: give the individual and group a short warning.
-2. Upon second offence: give the individual and/or group a spending ban 
-   for up to two months.
-3. Upon third offence: give the individual and/or group a spending ban 
-   for the remainder of the semester or year.
+1. Upon first offense: give the individual and group a short warning.
+2. Upon second offense: give the individual and/or group a spending ban for up
+   to two months.
+3. Upon third offense: give the individual and/or group a spending ban for the
+   remainder of the semester or year.
 
 #### Section 8. Spending Limits and Rules.
 
