@@ -706,7 +706,7 @@ allocation as necessary.
 
 #### Section 3. Funding Guidelines.
 
-The Student Government currently has no all-encompasing funding guidelines for
+The Student Government currently has no all-encompassing funding guidelines for
 the Student Activities Fund.
 
 ### Article 10. Student Government Audits.
